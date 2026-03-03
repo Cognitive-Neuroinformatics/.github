@@ -4,4 +4,4 @@ The process of learning and subsequent decision-making are examples of more huma
 
 Our research includes further developments in theories of soft computing concerning automated learning, processing and representation of uncertain knowledge (e.g. Dempster-Shafer Theory). Further research interests are the development of adaptive and parallel inference processes, which are based on the principle of information gain. In addition, we investigate and model the fusion of multisensory information, numerosity, natural scene statistics, SLAM (simultaneous localisation and mapping), autonomous planning and decision making, attentional processes, and deep learning. The areas of application are bio inspired systems, autonomous systems, multi-robot systems, autonomous driving, space robotics, maritim robotics, and cryo-robotics.
 
-URL: https://www.cognitive-neuroinformatics.com/en/
+For more information, visit your website: https://www.cognitive-neuroinformatics.com/en/
